@@ -13,7 +13,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Uplayer Plugin'
 tagline:          'New Getlink Google Drive Video Url'
 description:      'New Getlink Google Drive Video Url & Wordpress Plugin'
-url:              'https://uplayer.steam'
+url:              'https://uplayerstream.github.io'
 baseurl:          ''
 
 # Navigation
