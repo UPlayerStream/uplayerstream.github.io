@@ -56,10 +56,10 @@ gahandler: 'UA-xxxxxxx-1'
 footersvg: 'true'
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'uplayer'
 
 # txtpen
-txtpenhandler: 'testingblogo'
+txtpenhandler: 'Uplayer'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
