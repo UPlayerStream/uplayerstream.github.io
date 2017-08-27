@@ -14,7 +14,7 @@ title:            'Uplayer Plugin'
 tagline:          'New Getlink Google Drive Video Url'
 description:      'New Getlink Google Drive Video Url & Wordpress Plugin'
 url:              'https://uplayerstream.github.io'
-baseurl:          ''
+baseurl:          'https://uplayerstream.github.io'
 
 # Navigation
 navigation:
